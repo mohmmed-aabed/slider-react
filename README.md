@@ -1,1 +1,3 @@
-# react-projects-7-slider
+# React Slider
+
+Simple slider built using React.js
